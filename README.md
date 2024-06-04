@@ -40,7 +40,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título para um ebook cibersegurança, o nicho do ebook é segurança da informação e o sub nicho boas práticas, o título deve ser épico e  curto, e tenha uma temática robôs, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+| conteúdo | Faça um texto para ebook , com foco em cibersegurança, listando boas práticas como menor privilégio, atualizações, hardening {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, sempre deixe um título sugestivo por tópico |
 
 
 Midjourney：
