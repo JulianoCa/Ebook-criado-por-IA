@@ -47,12 +47,12 @@ Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | A robot with gun to protect the cybersecurity |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens buscadas na internet devido a falta de licença MidJourney
 
 ## 📚 Materiais
 
@@ -70,7 +70,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src=" "
     />
     <p>&nbsp&nbsp&nbspJuliano Candido Matias<br>
     &nbsp&nbsp&nbsp
